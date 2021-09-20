@@ -1,5 +1,5 @@
 # deep-learning-resources
-This page shows the python code and trained models of the paper 'Deep Neural Networks predict inhibitors of Schistosoma mansoni thioredoxin glutathione reductase (SmTGR).
+This page shows the python code and trained models of the paper 'Deep Neural Networks predict inhibitors of Schistosoma mansoni thioredoxin glutathione reductase (SmTGR)'.
 
 
 The code in this page is for combining files, pre-processing, data splitting, training, and loading and testing. To implement the code, kindly change the filepaths in the .py files for each task.
